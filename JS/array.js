@@ -11,7 +11,7 @@ let names =["red", "blu", "heyo"]
 // names[1] = names[2];
 // console.log(names);
 
-//Glass
+//GlassToddler
 // let obh = {}; //object literal
 
 
