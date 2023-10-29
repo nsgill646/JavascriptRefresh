@@ -1,7 +1,7 @@
 let num = [1,3,4,5];
 let numNam = num
 
-//
+
 //num.shift();                  //Shift (remove) the first element of the array
 //console.log(numNam)
 let names =["red", "blu", "heyo"]
