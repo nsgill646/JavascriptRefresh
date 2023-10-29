@@ -6,7 +6,7 @@ let numNam = num
 //console.log(numNam)
 let names =["red", "blu", "heyo"]
 
-// //serialized collection of items - arrays (reference datatype)
+//serialized collection of items - arrays (reference datatype)
 // //mutable
 // names[1] = names[2];
 // console.log(names);
